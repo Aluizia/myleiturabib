@@ -41,7 +41,7 @@
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="../Novo testamento /evangelhos.html">Evangelhos</a></li>
-              <li><a class="dropdown-item" href="Novo testamento /cartas.html">Cartas</a></li>
+              <li><a class="dropdown-item" href="cartas.html">Cartas</a></li>
             </ul>
           </li>
         </ul>
