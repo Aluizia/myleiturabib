@@ -81,7 +81,7 @@
     <button class="botao" data-cor="green">27</button>
     <button class="botao" data-cor="green">28</button>
      </div>
-   <script src="main.js"></script>
+  
   <div class="img">
     <img src="atos.png" alt="../imgs/atos.png">
   </div>
