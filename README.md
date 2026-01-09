@@ -28,11 +28,11 @@
               Antigo testamento 
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="../Antigo testamento /pentateuco.html">Pentateuco</a></li>
-              <li><a class="dropdown-item" href="Antigo testamento /history.html">Históricos</a></li>
-              <li><a class="dropdown-item" href="../Antigo testamento /poetic.html">Poéticos</a></li>
-                <li><a class="dropdown-item" href="../Antigo testamento /profetasm.html">Profetas Maiores</a></li>
-                <li><a class="dropdown-item" href="../Antigo testamento /profetasmn.html">Profetas menores</a></li>
+              <li><a class="dropdown-item" href="pentateuco.html">Pentateuco</a></li>
+              <li><a class="dropdown-item" href="history.html">Históricos</a></li>
+              <li><a class="dropdown-item" href="poetic.html">Poéticos</a></li>
+                <li><a class="dropdown-item" href="profetasm.html">Profetas Maiores</a></li>
+                <li><a class="dropdown-item" href="profetasmn.html">Profetas menores</a></li>
             </ul>
           </li>
          <li class="nav-item dropdown">
@@ -40,7 +40,7 @@
               Novo testamento 
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="../Novo testamento /evangelhos.html">Evangelhos</a></li>
+              <li><a class="dropdown-item" href="evangelhos.html">Evangelhos</a></li>
               <li><a class="dropdown-item" href="cartas.html">Cartas</a></li>
             </ul>
           </li>
@@ -83,7 +83,7 @@
      </div>
    <script src="main.js"></script>
   <div class="img">
-    <img src="../imgs/atos.png" alt="../imgs/atos.png">
+    <img src="atos.png" alt="../imgs/atos.png">
   </div>
   <!-- Apocalipse  -->
   <div class="livm">
