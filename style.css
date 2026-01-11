@@ -112,3 +112,31 @@ img{
   transition: 0.3s;
   margin-left:2px;
 }
+.his{
+  width:30px;
+  height:30px;
+  padding: 3px 6px;
+  font-size: 12px;
+  background-color: gray;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left:2px;
+}
+.poe{
+  width:30px;
+  height:30px;
+  padding: 3px 6px;
+  font-size: 12px;
+  background-color: gray;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left:2px;
+}
+
+
