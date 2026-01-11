@@ -23,24 +23,24 @@
   });
 
 
- const botoes = document.querySelectorAll(".bot");
+ const bott = document.querySelectorAll(".bot");
 
-  botoes.forEach((bot, index) => {
+  bott.forEach((bot, index) => {
     // restaura estado salvo
     const corSalva = localStorage.getItem("bot_" + index);
     if (corSalva) {
       botao.style.backgroundColor = corSalva;
     }
 
-    botao.addEventListener("click", () => {
+    bot.addEventListener("click", () => {
       const corAtual = bot.style.backgroundColor;
       const novaCor = bot.dataset.cor;
 
       if (corAtual === novaCor) {
-        botao.style.backgroundColor = "gray";
+        bot.style.backgroundColor = "gray";
         localStorage.removeItem("bot_" + index);
       } else {
-        botao.style.backgroundColor = novaCor;
+        bot.style.backgroundColor = novaCor;
         localStorage.setItem("bot_" + index, novaCor);
       }
     });
