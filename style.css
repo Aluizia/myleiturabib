@@ -19,7 +19,7 @@ p{
 }
 h2{
     text-align:center;
-    color: #fff;
+    color:#fff;
 }
 
 .botao{
@@ -28,7 +28,7 @@ h2{
   padding: 3px 6px;
   font-size: 12px;
   background-color: gray;
-  color: white;
+  color:white;
   border: none;
   border-radius: 4px;
   cursor: pointer;
