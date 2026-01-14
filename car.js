@@ -1,4 +1,6 @@
-((car, index) => {
+const carng = document.querySelectorAll(".car");
+
+  carng.forEach((car, index) => {
     // restaura estado salvo
     const corSalva = localStorage.getItem("car_" + index);
     if (corSalva) {
