@@ -1,6 +1,7 @@
+  
   const prm = document.querySelectorAll(".pm");
 
-  Prm.forEach((pm, index) => {
+  prm.forEach((pm, index) => {
     // restaura estado salvo
     const corSalva = localStorage.getItem("pm_" + index);
     if (corSalva) {
